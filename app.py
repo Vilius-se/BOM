@@ -1,6 +1,6 @@
 ﻿import streamlit as st
 
-from src.state import init_state
+from src_state import init_state
 
 
 st.set_page_config(
